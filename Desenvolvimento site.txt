@@ -1,0 +1,15 @@
+TECNOLOGIAS UTILIZADAS
+HTML (semântica 5) -> EStruturação da página;
+CSS -> Estilização da página e adequação Mobile com média queries;
+JAVASCRIPT -> Efeitos de transição / Animação;
+
+ESTRUTURA SITE
+PÁGINA INICIAL
+	├─── Portifólio 1
+	├─── Portifólio 2
+	├─── Portifólio 3
+	└─── Galeria
+
+
+DESENVOLVIMENTO
+	O site foi Desenvolvido utilizando as técnicas de classe e layout em grid Flex do CSS, juntamente utilizado com javascript para dar interação com o site.
